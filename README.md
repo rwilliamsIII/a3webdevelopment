@@ -1,6 +1,4 @@
-# Publino
-
-Thank you for purchasing Publino!
+# A3 Web Development
 
 ## Getting Started
 
@@ -27,9 +25,4 @@ Thank you for purchasing Publino!
 - `public/` – Static assets
 - `.next/` – Next.js build output
 
-## Support
 
-If you have any questions or need assistance, please contact our support team.
-
----
-Enjoy your new project!
