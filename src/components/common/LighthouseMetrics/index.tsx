@@ -12,7 +12,7 @@ const MetricCircle = ({
 }: { 
   value: number, 
   color: string, 
-  label: string, 
+  label: string | undefined, 
   delay: number 
 }) => {
   const radius = 40;
