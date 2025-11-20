@@ -8,7 +8,6 @@ interface TemplateProps {
     id: number;
     name: string;
     category: string;
-    price: number;
     label?: string;
     image: string;
     features?: string[];

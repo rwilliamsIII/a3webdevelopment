@@ -12,7 +12,7 @@ const MetricCircle = ({
 }: { 
   value: number, 
   color: string, 
-  label: string | undefined, 
+  label: string, 
   delay: number 
 }) => {
   const radius = 40;
@@ -51,10 +51,10 @@ const MetricCircle = ({
               ease: "easeOut",
               willChange: "stroke-dashoffset"
             }}
-            // style={{ 
-            //   willChange: "stroke-dashoffset",
-            //   transform: "translateZ(0)"
-            // }}
+            style={{ 
+              willChange: "stroke-dashoffset",
+              transform: "translateZ(0)"
+            }}
           />
         </svg>
         

@@ -1,7 +1,8 @@
 {
   "name": "a3webdev",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "The official website for A3 Marketing & Web Development.",
   "author": "Robert Williams robert@a3marketing.com",
   "scripts": {
     "dev": "next dev --turbopack",
