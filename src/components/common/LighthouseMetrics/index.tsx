@@ -51,10 +51,10 @@ const MetricCircle = ({
               ease: "easeOut",
               willChange: "stroke-dashoffset"
             }}
-            style={{ 
-              willChange: "stroke-dashoffset",
-              transform: "translateZ(0)"
-            }}
+            // style={{ 
+            //   willChange: "stroke-dashoffset",
+            //   transform: "translateZ(0)"
+            // }}
           />
         </svg>
         
