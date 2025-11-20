@@ -1,9 +1,0 @@
-{
-  "[project]/src/components/NavBar/index.tsx [app-client] (ecmascript, next/dynamic entry)": {
-    "id": "[project]/src/components/NavBar/index.tsx [app-client] (ecmascript, next/dynamic entry)",
-    "files": [
-      "static/chunks/src_components_NavBar_index_tsx_4d310563._.js",
-      "static/chunks/src_components_NavBar_index_tsx_59d779fa._.js"
-    ]
-  }
-}
